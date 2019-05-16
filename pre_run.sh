@@ -1,4 +1,4 @@
 #!/bin/bash
 
-#pytest --cov=.
-pytest --cov=. --cov-report html:coverage
+pytest --cov=.
+#pytest --cov=. --cov-report html:coverage
