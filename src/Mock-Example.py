@@ -7,4 +7,9 @@ class DB:
 
 
 class Person:
-    def __init__(self,):
+    def __init__(self,name,db):
+        self.name = name
+        self.db = db
+
+    def save(self):
+        self.db.persist(self)
