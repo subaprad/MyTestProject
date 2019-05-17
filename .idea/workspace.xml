@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841b51ea-add1-453c-a5fc-3f9890755cb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/mock-example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_mockexample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mock-Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mock-Example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mock-Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/mock-example.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +36,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="447" />
+          <entry key="dummy" value="16" />
+          <entry key="py" value="834" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="447" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="834" />
         </counts>
       </usages-collector>
     </session>
@@ -64,10 +68,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Mock-Example.py">
+        <entry file="file://$PROJECT_DIR$/src/MockExample.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="12" />
               <folding>
                 <marker date="1558071672854" expanded="true" signature="9:14" ph="..." />
                 <marker date="1558071672854" expanded="true" signature="106:111" ph="..." />
@@ -77,14 +81,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/mock-example.py">
+        <entry file="file://$PROJECT_DIR$/tests/test_mockexample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <marker date="1558073520923" expanded="true" signature="107:112" ph="..." />
-                <marker date="1558073520923" expanded="true" signature="151:156" ph="..." />
+                <marker date="1558078046322" expanded="true" signature="195:196" ph="..." />
+                <marker date="1558078046322" expanded="true" signature="195:200" ph="..." />
+                <marker date="1558078046322" expanded="true" signature="261:359" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,10 +113,11 @@
         <option value="$PROJECT_DIR$/src/Mock-Example.py" />
         <option value="$PROJECT_DIR$/tests/test-mock-example.py" />
         <option value="$PROJECT_DIR$/tests/mock-example.py" />
+        <option value="$PROJECT_DIR$/tests/test_mockexample.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -184,7 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Mock-Example.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\subaprad\PycharmProjects\MyTestProject\src\MockExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,9 +219,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -227,7 +231,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32924694" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32049036" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -252,10 +256,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mock-Example.py">
+    <entry file="file://$PROJECT_DIR$/src/MockExample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="12" />
           <folding>
             <marker date="1558071672854" expanded="true" signature="9:14" ph="..." />
             <marker date="1558071672854" expanded="true" signature="106:111" ph="..." />
@@ -263,14 +267,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/mock-example.py">
+    <entry file="file://$PROJECT_DIR$/tests/test_mockexample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1558073520923" expanded="true" signature="107:112" ph="..." />
-            <marker date="1558073520923" expanded="true" signature="151:156" ph="..." />
+            <marker date="1558078046322" expanded="true" signature="195:196" ph="..." />
+            <marker date="1558078046322" expanded="true" signature="195:200" ph="..." />
+            <marker date="1558078046322" expanded="true" signature="261:359" ph="..." />
           </folding>
         </state>
       </provider>
