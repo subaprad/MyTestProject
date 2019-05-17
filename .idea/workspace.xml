@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841b51ea-add1-453c-a5fc-3f9890755cb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_mockexample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mock-Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MockExample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/mock-example.py" beforeDir="false" />
-    </list>
+    <list default="true" id="841b51ea-add1-453c-a5fc-3f9890755cb9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,9 +77,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/test_mockexample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="221">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding>
+                <element signature="e#0#14#0" expanded="true" />
                 <marker date="1558078046322" expanded="true" signature="195:196" ph="..." />
                 <marker date="1558078046322" expanded="true" signature="195:200" ph="..." />
                 <marker date="1558078046322" expanded="true" signature="261:359" ph="..." />
@@ -117,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -219,6 +214,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -269,9 +265,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_mockexample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="221">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
+            <element signature="e#0#14#0" expanded="true" />
             <marker date="1558078046322" expanded="true" signature="195:196" ph="..." />
             <marker date="1558078046322" expanded="true" signature="195:200" ph="..." />
             <marker date="1558078046322" expanded="true" signature="261:359" ph="..." />
