@@ -1,3 +1,3 @@
 
-def mul(a,c):
-    return a*c;
+def mul(a,b):
+    return a*b;
